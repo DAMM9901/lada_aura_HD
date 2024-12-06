@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lada_aura", "lada_aura.csproj", "{B072FF4A-17DE-40A1-A7A4-397D16330588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B072FF4A-17DE-40A1-A7A4-397D16330588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B072FF4A-17DE-40A1-A7A4-397D16330588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B072FF4A-17DE-40A1-A7A4-397D16330588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B072FF4A-17DE-40A1-A7A4-397D16330588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251557DD-8A8E-431B-8466-ACD3AC8A4BAD}
+	EndGlobalSection
+EndGlobal
